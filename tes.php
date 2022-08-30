@@ -1,3 +1,5 @@
+###### Output Pertemuan Ke-2
+
 <h1>Contoh Function</h1>
 <?php
 
